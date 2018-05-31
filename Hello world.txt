@@ -5,4 +5,3 @@ helo
 gello
 kpello
 chello
-jijij
